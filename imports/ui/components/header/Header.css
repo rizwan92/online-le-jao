@@ -1,0 +1,33 @@
+.header{
+  background-color: white;
+  display: flex;
+  height: 60px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+   z-index:1;
+}
+
+.headeritem{
+  display: flex;
+  border-bottom: groove;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.one{
+  color: #40c4ff;
+  padding-left: 20px;
+  align-items: center;
+}
+.three{
+justify-content: center;
+align-items: center;
+}
+.icon{
+  background-image: url(./large.png);
+  width: 50px;
+  height: 40px;
+  background-position: center;
+  margin-right: 2px;
+}

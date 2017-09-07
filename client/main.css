@@ -1,0 +1,15 @@
+/* CSS declarations go here */
+body {
+}
+.grid{
+  margin-top: 54px;
+}
+.myrow{
+  border-style: groove;
+}
+.searchrow{
+  background-color: #40c4ff;
+}
+.tagline{
+  color: black;
+}
